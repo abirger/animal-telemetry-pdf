@@ -1,0 +1,15 @@
+baseurl = "http://abirger.github.io/animal-telemetry-pdf"
+CanonifyUrls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+languageCode = "en-us"
+[params]
+  Title = "Animal Telemetry"
+  Tagline = "About animals and telemetry"
+[params.Github]
+  Head = "master"
+  Url = "https://github.com/ioos/animal-telemetry"
+	
+	
+ 
